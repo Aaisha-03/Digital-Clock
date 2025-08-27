@@ -1,1 +1,2 @@
 # Digital-Clock
+This is a GUI-based digital clock application built with Python's tkinter library. It displays the current time and full date (e.g., Wednesday, 27 August 2025) with a clean, responsive interface using custom fonts and colors. Key features include the ability to toggle between 12-hour and 24-hour formats, change the background color via a dropdown menu, and an easy-to-use exit button to close the application.
